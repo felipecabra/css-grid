@@ -1,0 +1,185 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(192, 192, 192);
+    margin: 0;
+}
+
+header {
+    background-color: purple;
+    height: 80px;
+    width: 100%;
+
+}
+
+.img-header {
+    height: 100%;
+    width: auto;
+}
+
+.caçarato {
+    height: 80px;
+    width: 80px;
+}
+
+.rato {
+    height: 179px;
+    width: 350px;
+}
+
+.fundo1 {
+    width: 230px;
+    height: 110px;
+    background-color: #540070;
+    border-radius: 30px;
+    margin-bottom: 20px;
+}
+
+.jogador1 {
+    width: 149px;
+    height: 109px;
+    background-color: rgb(47, 145, 79);
+    border-radius: 30px;
+    background: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFKiZPB5pDX_DwO4WqrZaOWoP3D1leR63RtLQj69vFkoXWDDNYFMrQFMgnx0kG-ftXy_KVZzj-Ar-q_ZMmphMJqnEeVZ7jzd5yVAg1LfzDK0M0m1XZ2Od5-MAlkIIrNA6UvsPIXfkIH4p7/s1600/Balotelli-hot-girlfriends.jpg..jpg);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    margin-left: 10px;
+    margin-bottom: 20px;
+
+}
+
+.fundo2 {
+    width: 230px;
+    height: 110px;
+    background-color: #540070;
+    border-radius: 30px;
+    margin-bottom: 20px;
+}
+
+.jogador2 {
+    width: 149px;
+    height: 109px;
+    background-color: rgb(47, 145, 79);
+    border-radius: 30px;
+    background: url(https://e0.365dm.com/23/08/768x432/skysports-ousmane-dembele-bracelona_6238109.jpg?20230802122507);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+.fundo3 {
+    width: 230px;
+    height: 110px;
+    background-color: #540070;
+    border-radius: 30px;
+    margin-bottom: 20px;
+}
+
+.jogador3 {
+
+    width: 149px;
+    height: 109px;
+    background-color: rgb(47, 145, 79);
+    border-radius: 30px;
+    background: url(https://distritodoesporte.com/wp-content/uploads/2022/01/FJ85NpZXoAAF6pR.jpg);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    margin-left: 10px;
+}
+.cebolinha1 {
+    width: 230px;
+    height: 110px;
+    background-color: #540070;
+    border-radius: 30px;
+    margin-bottom: 20px;
+}
+.cebolinha {
+
+    width: 149px;
+    height: 109px;
+    background-color: rgb(47, 145, 79);
+    border-radius: 30px;
+    background: url(https://i.pinimg.com/originals/3e/4a/26/3e4a2695182168baf9309a2fb7fb7105.jpg);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    margin-left: 10px;
+    margin-bottom: 20px;
+
+}
+.cassio1 {
+    width: 230px;
+    height: 110px;
+    background-color: #540070;
+    border-radius: 30px;
+    margin-bottom: 20px;
+}
+.cassio {
+
+    width: 149px;
+    height: 109px;
+    background-color: rgb(47, 145, 79);
+    border-radius: 30px;
+    background: url(https://ds-images.bolavip.com/news/image/740/416/?src=https://images.antenadosnofutebol.com.br/webp/full/ANF_20241031_ANF_201661_Cassio-Cruzeiro.webp);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    margin-left: 10px;
+    margin-bottom: 20px;
+
+}
+
+.bruxo1 {
+    width: 230px;
+    height: 110px;
+    background-color: #540070;
+    border-radius: 30px;
+    margin-bottom: 20px;
+}
+.bruxo {
+
+    width: 149px;
+    height: 109px;
+    background-color: rgb(47, 145, 79);
+    border-radius: 30px;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP1Q4mAqaSMy-S6y6w9CPeRniQ35WagNwNVtnWQ946rR3K8D8f9UnZ9JMQUxqJzJ-tHJM&usqp=CAU);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    margin-left: 10px;
+    margin-bottom: 20px;
+
+}
+.cr71 {
+    width: 230px;
+    height: 110px;
+    background-color: #540070;
+    border-radius: 30px;
+    margin-bottom: 20px;
+}
+.cr7{
+
+    width: 149px;
+    height: 109px;
+    background-color: rgb(47, 145, 79);
+    border-radius: 30px;
+    background: url(https://uploads.metroimg.com/wp-content/uploads/2023/01/02114557/cr7-champions-emprestimo.jpg);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    margin-left: 10px;
+    margin-bottom: 20px;
+
+}
+.footer {
+    height: 100px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #540070;
+}
